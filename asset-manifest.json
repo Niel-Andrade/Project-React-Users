@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/Project-React-Users/static/js/main.f2ad0994.js",
+    "static/media/background1.svg": "/Project-React-Users/static/media/background1.0aba36d7272d62e69d4386be3c053696.svg",
+    "static/media/people.svg": "/Project-React-Users/static/media/people.c204cfdbc529be5956d3e6e88b70326a.svg",
+    "static/media/trash.svg": "/Project-React-Users/static/media/trash.70ceac1a299232b5da090cd02c213f79.svg",
+    "index.html": "/Project-React-Users/index.html",
+    "static/media/arrow.svg": "/Project-React-Users/static/media/arrow.47fc491de1c081828a3a4daa6366519c.svg",
+    "main.f2ad0994.js.map": "/Project-React-Users/static/js/main.f2ad0994.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f2ad0994.js"
+  ]
+}
